@@ -1,2 +1,2 @@
 # dio-java-rep
-## Sejam Ben vindos Devs DIO!
+## Sejam Bem vindos Devs DIO!
