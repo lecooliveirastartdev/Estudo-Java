@@ -1,3 +1,4 @@
+package edu.alexandro.packade;
 public class BoletimEstudantil {
 
     public static void main(String[] args) {
