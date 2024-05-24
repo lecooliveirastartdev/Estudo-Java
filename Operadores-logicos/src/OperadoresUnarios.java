@@ -6,7 +6,7 @@ public class OperadoresUnarios {
         int numero = 5;
 
         // Imprimindo o numero negativo
-        System.out.println(- numero);
+        System.out.println(-numero);
 
         // Imprimindo numero positivo
         System.out.println(numero * 1);
@@ -16,12 +16,12 @@ public class OperadoresUnarios {
         System.out.println(numero);
 
         // incrementando numero em mais 1 numero, imprime 7
-        System.out.println(numero++ +1);// ops algo de errado não está certo
+        System.out.println(numero++ + 1);// ops algo de errado não está certo
 
         // ordem de precedencia conta aqui
         System.out.println(++numero);
 
-        //Use ! para iverter o resultado
+        // Use ! para iverter o resultado
         boolean verdadeiro = true;
         System.out.println("Inverteu " + !verdadeiro);
     }
