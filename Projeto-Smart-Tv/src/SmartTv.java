@@ -1,18 +1,42 @@
 public class SmartTv {
+   boolean ligar = false;
+   boolean desligar = false;
 
-   public static void main(String[] args) throws Exception{
-      boolean ligada=false;
-      int = canal=1;
-      int volume = 25;
+   int canal = 1;
+   int volume = 25;
 
-      public void ligar(){
-            ligada=true;
-      }
-      public void desligar(){
-             desligada=false;
+   public void ligada() {
+      ligar = true;
+   }
 
+   public void desligada() {
+      desligar = false;
+   }
 
-}
+   public void aumentarVolume() {
+      volume++;
+      System.out.println("Aumentando o volume para: " + volume);
+   }
+
+   public void diminuirVolume() {
+      volume--;
+      System.out.println("Diminuido o volume para: " + volume);
+
+   }
+
+   public void aumentarCanal() {
+      canal++;
+
+   }
+
+   public void diminuirCanal() {
+      canal--;
+
+   }
+
+   public void mudarCanal(int novoCanal) {
+      canal = novoCanal;
+
    }
 
 }
