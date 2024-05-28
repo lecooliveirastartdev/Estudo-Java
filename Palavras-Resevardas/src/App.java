@@ -13,7 +13,7 @@ protected: acesso por classes no mesmo pacote e subclasses
 
 public: acesso de qualquer classe
 
-Modificadores de classes, variáveis ou métodos
+MODIFICADORES DE CLASSES, VARIÁVEIS OU MÉTODOS
 abstract: classe que não pode ser instanciada ou método que precisa ser implementado por uma subclasse não abstrata
 
 class: especifica uma classe
@@ -83,7 +83,7 @@ import:importa pacotes ou classes para dentro do código
 
 package: especifica a que pacote todas as classes de um arquivo pertencem
 
-PRIMITIVOS
+TIPO PRIMITIVOS 
 boolean:um valor indicando verdadeiro ou falso
 
 byte: um inteiro de 8 bits (signed)
