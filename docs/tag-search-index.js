@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Calculadora","h":"class JavaDoc.Calculadora","d":"Section","u":"JavaDoc.Calculadora.html#calculadora-heading"}];updateSearchResults();
