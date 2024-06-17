@@ -3,7 +3,7 @@ package Autodromo;
 public class Autodromo {
     
     public static void main(String[] args) {
-       Carro jeep = new Carro();
+       CarroCheklist jeep = new CarroCheklist();
        jeep.ligarCarro();
        jeep.conferirCombustivel();
     }
