@@ -1,5 +1,6 @@
 package Mensseger;
 
+
 	public class MSNMessenger extends ServicoMensagemInstantanea{
         public void enviarMensagem() {
             System.out.println("Enviando mensagem pelo MSN Messenger");

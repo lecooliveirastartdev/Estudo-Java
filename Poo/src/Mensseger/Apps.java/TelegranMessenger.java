@@ -1,4 +1,4 @@
-package Mensseger;
+package Mensseger.Apps;
 
 
 public class TelegranMessenger extends ServicoMensagemInstantanea {

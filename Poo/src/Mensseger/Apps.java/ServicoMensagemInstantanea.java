@@ -1,4 +1,4 @@
-package Mensseger, Apps;
+package Mensseger;
 public abstract class ServicoMensagemInstantanea {
 
 	public abstract void enviarMensagem();
