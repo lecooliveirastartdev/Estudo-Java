@@ -1,0 +1,35 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "desafio_iphone/User.Usuario",
+            "projectName": "Desafio-DIO-Iphone_e6e492f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "desafio_iphone/App",
+            "request": "launch",
+            "mainClass": "desafio_iphone/App",
+            "projectName": "Desafio-DIO-Iphone_e6e492f"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "desafio_iphone/usuario.Usuario",
+            "projectName": "Desafio-DIO-Iphone_e6e492f"
+        }
+    ]
+}
