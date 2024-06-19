@@ -14,12 +14,19 @@ Modelagem e diagramação da representação em UML e Código no que se refere a
 </p>
 
 ## 💡 Sobre o projeto
-Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
- <br> <br>
+Elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
+<ol>
+    <li>Elaboração UML do projeto</li>
+    <li>Reprodutor musical</li>
+    <li>Aparelho Telefônico</li>
+    <li>Navegador internet</li>
+</ol>
+<img src="src/UML.png" tittle="nome da imagem">
+ <br>
 
 ## 📁 Estrutura/
-- [DesafioIphone](https://github.com/juliagonzalezmoreira/DesafioIphone/tree/main/DesafioIphone) / Pasta com projeto
-- [diagramaIphone.drawio](https://github.com/juliagonzalezmoreira/DesafioIphone/blob/main/DiagramaIphone.drawio) / Diagrama de Classes.
+- [Projeto DiO Iphone](https://github.com/lecooliveirastartdev/dio-java-rep/tree/main/Desafio-DIO-Iphone) / Pasta com projeto
+- [DiagramaIphone Astah](https://github.com/lecooliveirastartdev/dio-java-rep/blob/main/Desafio-DIO-Iphone/src/UML.png) / Diagrama de Classes.
 - ```README.md```  Informações do projeto.  
 ## 📍 Instruções 
 
@@ -41,7 +48,8 @@ Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de
 
 Caso tenha algum feedback, entre em contato!
 
-<a href = "mailto:juliagonzalezmoreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/julia-gonzalez-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:lecopliveirastartde"><img src="https://img.shields.io/badge/Microsoft-258ffa?style=for-the-
+badge&logo=microsoft&logoColor=white)"></a> 
+<br>
 
-<p align="center"> Desenvolvido com 💜 por Julia Gonzalez Moreira </p>
+<p align="center"> LECO OLIVEIRA </p>
