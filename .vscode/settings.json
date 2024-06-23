@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
         "ligada"
+    ],
+    "java.project.sourcePaths": [
+        "Poo/src",
+        "Collections-Java/src/list/OperacoesBasicas"
     ]
 }
