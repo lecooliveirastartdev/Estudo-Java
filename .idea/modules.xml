@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anatomia-classes/Anatomia-classes.iml" filepath="$PROJECT_DIR$/Anatomia-classes/Anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Area-Teste-Java/Area-Teste-Java.iml" filepath="$PROJECT_DIR$/Area-Teste-Java/Area-Teste-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections-Java/Collections-Java.iml" filepath="$PROJECT_DIR$/Collections-Java/Collections-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controle-Candidatos/Contador/Contador.iml" filepath="$PROJECT_DIR$/Controle-Candidatos/Contador/Contador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controle-Candidatos/Controle-Candidatos.iml" filepath="$PROJECT_DIR$/Controle-Candidatos/Controle-Candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controle-Fluxo/Controle-Fluxo.iml" filepath="$PROJECT_DIR$/Controle-Fluxo/Controle-Fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-DIO-Contador/Desafio-DIO-Contador.iml" filepath="$PROJECT_DIR$/Desafio-DIO-Contador/Desafio-DIO-Contador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-DIO-Iphone/Desafio-DIO-Iphone.iml" filepath="$PROJECT_DIR$/Desafio-DIO-Iphone/Desafio-DIO-Iphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto-Smart-Tv/Escopo/Escopo.iml" filepath="$PROJECT_DIR$/Projeto-Smart-Tv/Escopo/Escopo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escopo/Escopo1.iml" filepath="$PROJECT_DIR$/Escopo/Escopo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura-Repetição/Estrutura-Repetição.iml" filepath="$PROJECT_DIR$/Estrutura-Repetição/Estrutura-Repetição.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Doc/Java-Doc.iml" filepath="$PROJECT_DIR$/Java-Doc/Java-Doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores-logicos/Operadores-logicos.iml" filepath="$PROJECT_DIR$/Operadores-logicos/Operadores-logicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palavras-Resevardas/Palavras-Resevardas.iml" filepath="$PROJECT_DIR$/Palavras-Resevardas/Palavras-Resevardas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo/src/Poo.iml" filepath="$PROJECT_DIR$/Poo/src/Poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo/Poo1.iml" filepath="$PROJECT_DIR$/Poo/Poo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto-Smart-Tv/Projeto-Smart-Tv.iml" filepath="$PROJECT_DIR$/Projeto-Smart-Tv/Projeto-Smart-Tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream-API-Java/Stream-API-Java.iml" filepath="$PROJECT_DIR$/Stream-API-Java/Stream-API-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Terminal-E-Argumentos/Terminal-E-Argumentos.iml" filepath="$PROJECT_DIR$/Terminal-E-Argumentos/Terminal-E-Argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tipos-variaveis/Tipos-variaveis.iml" filepath="$PROJECT_DIR$/Tipos-variaveis/Tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Try-Catch/Try-Catch.iml" filepath="$PROJECT_DIR$/Try-Catch/Try-Catch.iml" />
+    </modules>
+  </component>
+</project>
