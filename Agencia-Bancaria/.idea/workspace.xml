@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c8e0dd-24f2-41fd-a153-26dbd04c61dc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agencia-Bancaria/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Agencia-Bancaria/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agencia-Bancaria/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Agencia-Bancaria/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f1c8e0dd-24f2-41fd-a153-26dbd04c61dc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +37,7 @@
   "keyToString": {
     "Application.AgenciaBancaria.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.keymap"
