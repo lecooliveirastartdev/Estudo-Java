@@ -21,7 +21,7 @@ Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalm
     <li>Abstração</li>
     <li>Polomorfismmo</li>
 </ol>
-<img src=".Agência.png" tittle="nome da imagem">
+<img src="src/UML.png" tittle="nome da imagem">
  <br>
 
 ## 📁 Estrutura/
