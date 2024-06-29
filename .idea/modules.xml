@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Agencia-Bancaria/Agencia-Bancaria.iml" filepath="$PROJECT_DIR$/Agencia-Bancaria/Agencia-Bancaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/Anatomia-classes/Anatomia-classes.iml" filepath="$PROJECT_DIR$/Anatomia-classes/Anatomia-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Area-Teste-Java/Area-Teste-Java.iml" filepath="$PROJECT_DIR$/Area-Teste-Java/Area-Teste-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections-Java/Collections-Java.iml" filepath="$PROJECT_DIR$/Collections-Java/Collections-Java.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Controle-Fluxo/Controle-Fluxo.iml" filepath="$PROJECT_DIR$/Controle-Fluxo/Controle-Fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafio-DIO-Contador/Desafio-DIO-Contador.iml" filepath="$PROJECT_DIR$/Desafio-DIO-Contador/Desafio-DIO-Contador.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafio-DIO-Iphone/Desafio-DIO-Iphone.iml" filepath="$PROJECT_DIR$/Desafio-DIO-Iphone/Desafio-DIO-Iphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-POO/Desafio-POO.iml" filepath="$PROJECT_DIR$/Desafio-POO/Desafio-POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projeto-Smart-Tv/Escopo/Escopo.iml" filepath="$PROJECT_DIR$/Projeto-Smart-Tv/Escopo/Escopo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Escopo/Escopo1.iml" filepath="$PROJECT_DIR$/Escopo/Escopo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura-Repetição/Estrutura-Repetição.iml" filepath="$PROJECT_DIR$/Estrutura-Repetição/Estrutura-Repetição.iml" />
