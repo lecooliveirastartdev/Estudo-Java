@@ -1,3 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij,eclipse,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,eclipse,visualstudiocode
 
@@ -131,9 +136,6 @@ atlassian-ide-plugin.xml
 # Cursive Clojure plugin
 .idea/replstate.xml
 
-# SonarLint plugin
-.idea/sonarlint/
-
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
 crashlytics.properties
@@ -176,10 +178,6 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
-# Azure Toolkit for IntelliJ plugin
-# https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
-.idea/**/azureSettings.xml
-
 ### Java ###
 # Compiled class file
 *.class
@@ -204,7 +202,6 @@ fabric.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-replay_pid*
 
 ### VisualStudioCode ###
 .vscode/*
@@ -212,13 +209,10 @@ replay_pid*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-!.vscode/*.code-snippets
+*.code-workspace
 
 # Local History for Visual Studio Code
 .history/
-
-# Built Visual Studio Code Extensions
-*.vsix
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
